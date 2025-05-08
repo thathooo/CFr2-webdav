@@ -24,6 +24,8 @@
 
 注需要有Cloudflare账户才能使用此功能。如果您还没有账户，可以在[Cloudflare官www.cloudflare.com)注册。
 
+*部署时提示无法获取，选择手动*
+
 ## 手动部署步骤 [Githut Actions]
 
 如果您需要自定义配置或想要深入了解部署流程，请按以下步骤操作：
